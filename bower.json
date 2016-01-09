@@ -1,0 +1,27 @@
+{
+  "name": "ces",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "json3": "~3.3.1",
+    "es5-shim": "~3.0.1",
+    "bootstrap": "~3.1.1",
+    "angular-resource": "~1.4.0",
+    "angular-cookies": "~1.4.0",
+    "angular-sanitize": "~1.4.0",
+    "angular-bootstrap": "~0.13.0",
+    "font-awesome": ">=4.1.0",
+    "lodash": "~2.4.1",
+    "angular-socket-io": "~0.7.0",
+    "angular-ui-router": "~0.2.15",
+    "Gallery": "https://github.com/blueimp/Gallery.git#~2.17.0",
+    "angular-picasa": "https://github.com/tcoopman/angular-picasa.git",
+    "nanogallery": "~5.9.1",
+    "jquery-photowall": "https://github.com/creotiv/jquery-photowall.git#~0.1.6",
+    "jQuery": "~2.2.0",
+    "fotorama": "~4.6.4"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.0"
+  }
+}
